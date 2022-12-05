@@ -10,3 +10,5 @@
 2. 不背单词
  2.1. 不背单词的自定义单词本导入默认后缀是 .txt
  2.2. 不背单词的自定义单词本导入单词本名称会有 NLP 检测,如无法建立带有 police 关键字的单词本
+3. Great Tools
+  Chrome extension [vocabularyexpander](https://vocabularyexpander.site/)
